@@ -8,7 +8,7 @@ Sistema desarrollado para facilitar la administración y seguimiento de proyecto
 - **Framework Backend:** Django
 - **Framework Frontend:** Tailwind CSS
 - **Base de Datos:** PostgreSQL
-- **Inteligencia Artificial:** Python (librerías utilizadas como TensorFlow o PyTorch, si corresponde)
+- **Inteligencia Artificial:** Python (librerías utilizadas como TensorFlow
 
 ## Instalación
 Sigue estos pasos para instalar y ejecutar el sistema:
