@@ -13,11 +13,6 @@ Sistema desarrollado para facilitar la administración y seguimiento de proyecto
 ## Instalación
 Sigue estos pasos para instalar y ejecutar el sistema:
 
-
-# Clonar el repositorio
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-cd nombre_del_repositorio
-
 # Crear y activar un entorno virtual
 python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
